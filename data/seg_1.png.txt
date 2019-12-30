@@ -1,0 +1,1 @@
+{'log_id': 4648512315531311322, 'words_result_num': 1, 'words_result': [{'words': '五羊雨衣原厂正品'}]}
